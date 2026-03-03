@@ -1,6 +1,6 @@
 {
   "name": "MeshMonitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "slug": "meshmonitor",
   "description": "Mesh network monitoring dashboard",
   "startup": "services",
